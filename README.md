@@ -48,4 +48,4 @@ Oil price movements affect nearly every aspect of daily life, from fuel and tran
 
 3. How does Brent price volatility during the 2022 Russia-Ukraine war compare statistically to the 2020 COVID crash and the 2008 financial crisis?
 
-4. Which market indicator — natural gas or the US Dollar Index — has the strongest correlation with Brent crude prices over this period?
+4. Which market indicator, natural gas or the US Dollar Index, has the strongest correlation with Brent crude prices over this period?
